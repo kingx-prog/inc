@@ -1,5 +1,5 @@
 
-To create a README file for King Tech Inc, you can follow the template below:
+ README file for King Tech Inc:
 
 King Tech Inc
 About
